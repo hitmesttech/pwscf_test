@@ -1,0 +1,6 @@
+&BANDS
+prefix='ZnO'
+outdir='./'
+filband='znoband1.dat'
+spin_component=1
+/
